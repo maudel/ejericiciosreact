@@ -1,0 +1,17 @@
+{
+  "name": "react-ejericios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "node ./install.js"
+  },
+  "dependencies": {
+    "has-yarn": "^1.0.0",
+    "prettier": "^1.12.1",
+    "shelljs": "^0.8.2"
+  },
+  "prettier": {
+    "printWidth": 58
+  }
+}
